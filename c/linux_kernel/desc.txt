@@ -1,3 +1,0 @@
-Language: C
-A simple ubuntu kernel script
-Displays information about the current processes using internal linked list
