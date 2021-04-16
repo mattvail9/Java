@@ -1,4 +1,4 @@
-##Algorithms
+## Algorithms
 
 #### Finite Automaton
 Accepts Language (00|11)*
