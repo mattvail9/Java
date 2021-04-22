@@ -16,6 +16,7 @@ Given a String s of lowercase English letters that is repeated infinitely many t
 
 #### Array HourGlass
 Given a 6x6 2D Array, arr: An hourglass in arr is a subset of values with indices falling in this pattern in arr's graphical representation:
-1. X X X
-2.   X  
-3. X X X<br />Finds the largest hourglass sum.  
+X X X\
+  X\  
+X X X\
+Finds the largest hourglass sum.  
