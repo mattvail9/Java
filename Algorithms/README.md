@@ -16,3 +16,7 @@ X X X <br />
 _ X _ <br />
 X X X <br />
 Finds the largest hourglass sum.  
+##### **ChaoticArray**
+Determines how many positions a number has moved up in an array from its origional index.<br />
+If moves > 2, arry is too chaotic
+
